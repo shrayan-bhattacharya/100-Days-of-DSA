@@ -8,7 +8,6 @@ import java.util.*;
 public class SetMatrixZeroes {
 
   public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
     int matrix[][] = { { 1, 1, 1 }, { 1, 0, 1 }, { 1, 1, 1 } };
     int rows = matrix.length;
     int cols = matrix[0].length;
