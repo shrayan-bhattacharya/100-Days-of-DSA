@@ -3,11 +3,12 @@ package Array;
 
 // O(1) Approach
 
-import java.util.Scanner;
-
 /**
  * RotateArray
  */
+
+import java.util.*;
+
 public class RotateArray {
 
   public static void rotate(int arr[], int k) {
