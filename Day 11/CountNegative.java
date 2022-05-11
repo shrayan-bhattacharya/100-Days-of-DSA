@@ -18,12 +18,12 @@ public class CountNegative {
   //optimised
 
   public int countNegatives(int[][] grid) {
-    int m = grid.length - 1, n = grid[0].length, p = 0, count = 0;
+    int rows = grid.length - 1, columns = grid[0].length, p = 0, count = 0;
 
-    while (m >= 0 && p < n) {
-      if (grid[m][p] < 0) {
-        m--;
-        count += n - p;
+    while (rows >= 0 && p < columns) {
+      if (grid[rows][p] < 0) {
+        rows--;
+        count = count + (columns - p);
       } else {
         p++;
       }
