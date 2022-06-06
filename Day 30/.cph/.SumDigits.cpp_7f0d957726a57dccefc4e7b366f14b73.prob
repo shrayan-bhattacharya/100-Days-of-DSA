@@ -1,0 +1,1 @@
+{"name":"Local: SumDigits","url":"d:\\100 Days of DSA\\Day 30\\SumDigits.cpp","tests":[{"id":1654495479957,"input":"3 \n12345\n31203\n2123","output":"15\n9\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\100 Days of DSA\\Day 30\\SumDigits.cpp","group":"local","local":true}
