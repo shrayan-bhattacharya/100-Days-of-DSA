@@ -1,0 +1,1 @@
+{"name":"Local: Valid_Triangles","url":"d:\\100 Days of DSA\\Day 31\\Valid_Triangles.cpp","tests":[{"id":1654647180670,"input":"3 \n40 40 100\n45 45 90\n180 1 1","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\100 Days of DSA\\Day 31\\Valid_Triangles.cpp","group":"local","local":true}

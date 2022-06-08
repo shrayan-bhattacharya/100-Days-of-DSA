@@ -1,0 +1,1 @@
+{"name":"Local: ID_and_ship","url":"d:\\100 Days of DSA\\Day 31\\ID_and_ship.cpp","tests":[{"id":1654647560590,"input":"3 \nB\nc\nD","output":"BattleShip\nCruiser\nDestroyer"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\100 Days of DSA\\Day 31\\ID_and_ship.cpp","group":"local","local":true}
